@@ -1,0 +1,1 @@
+This directory is a list of scripts that uses shell I/O redirection.
