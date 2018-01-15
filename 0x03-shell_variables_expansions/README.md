@@ -1,0 +1,1 @@
+This directory lists scripts that utilize shell initialization files, variables, math operators, expansion, and aliases.
