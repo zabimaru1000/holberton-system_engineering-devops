@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - | cut --fields 1
+paste - - | cut -f 1
